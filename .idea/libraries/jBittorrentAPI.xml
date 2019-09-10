@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jBittorrentAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jbittorrentapi-v1.1/jbittorrentapi-v1.0/jBittorrentAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
